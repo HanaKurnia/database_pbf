@@ -1,0 +1,4 @@
+CREATE TABLE prodi (
+    id_prodi INT AUTO_INCREMENT PRIMARY KEY,
+    nama_prodi VARCHAR(100) NOT NULL
+);
