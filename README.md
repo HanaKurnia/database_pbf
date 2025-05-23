@@ -1,4 +1,3 @@
-````markdown
 # 📊 Sistem Pengelolaan Nilai Mahasiswa - Database
 
 Dokumentasi ini menjelaskan struktur database dan proses implementasi sebagai bagian dari pengembangan Sistem Informasi Pengelolaan Nilai Mahasiswa. Proyek ini dikembangkan menggunakan MySQL dan berfokus pada penyimpanan serta pengelolaan data nilai akademik mahasiswa.
@@ -113,15 +112,10 @@ Tugas:
 
 📁 **Direktori Terkait**
 
-* `database/ERD.png` - Gambar diagram ERD ![Pengelolaan nilai drawio (1)](https://github.com/user-attachments/assets/66ce1786-7ef9-46f4-9414-38ffa1606e3b)
+* `- Gambar diagram ERD` ![Pengelolaan nilai drawio (1)](https://github.com/user-attachments/assets/66ce1786-7ef9-46f4-9414-38ffa1606e3b)
 
-* `database/schema.sql` - File SQL untuk pembuatan tabel dan trigger
+* `database/schema.sql` - File SQL untuk pembuatan tabel dan trigger 
 * `database/seed.sql` - File insert data dummy
 * `database/views.sql` - File pembuatan view
 
 ---
-
-```
-
-Kalau kamu butuh file `schema.sql`, `seed.sql`, atau `ERD.png`-nya juga sekalian aku buatin, tinggal bilang ya, biar sekalian rapi semua ❤️
-```
