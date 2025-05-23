@@ -114,8 +114,4 @@ Tugas:
 
 * `- Gambar diagram ERD` ![Pengelolaan nilai drawio (1)](https://github.com/user-attachments/assets/66ce1786-7ef9-46f4-9414-38ffa1606e3b)
 
-* `database/schema.sql` - File SQL untuk pembuatan tabel dan trigger 
-* `database/seed.sql` - File insert data dummy
-* `database/views.sql` - File pembuatan view
-
 ---
